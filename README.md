@@ -12,9 +12,7 @@
     <b>Explore the interactive 3D space that showcases my projects and skills. Built with the power of Three.js and React.js.</b>
 </p>
 
-<p align="center">
-    <a href="https://jeffjiang.vercel.app/"><strong>🚀 View Demo</strong></a>
-</p>
+
 
 ## About The Project
 
