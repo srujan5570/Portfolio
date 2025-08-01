@@ -1,7 +1,5 @@
 
 
-
-
 <h1 align="center">3D Portfolio Website</h1>
 
 <p align="center">
