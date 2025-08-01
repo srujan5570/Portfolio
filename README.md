@@ -1,10 +1,6 @@
 
 
-<div align="center">
-    <a href="https://github.com/jeffjiang13/3d-portfolio">
-        <img src="src/assets/logo3.png" alt="3D Portfolio Logo" width="235" height="150">
-    </a>
-</div>
+
 
 <h1 align="center">3D Portfolio Website</h1>
 
@@ -35,27 +31,13 @@ This 3D Portfolio Website is a creative approach to showcasing a portfolio in an
 
 To get a local copy up and running, follow these simple steps:
 
-### Prerequisites
 
-- npm
-```sh
-npm install npm@latest -g
-```
 
-### Installation
-
-1. Clone the repo
-```sh
-git clone https://github.com/jeffjiang13/3d-portfolio.git
-```
-2. Install NPM packages
-```sh
-npm install
-```
-3. Start the project
+ Start the project
 ```sh
 npm start
 ```
+
 
 ## Contributing
 
